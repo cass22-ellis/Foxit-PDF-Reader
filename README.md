@@ -1,7 +1,7 @@
 # Foxit PDF Reader for Windows 📄
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.1-24292F?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/version-latest-24292F?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/windows-10%20%7C%2011-0078D4?style=flat-square" alt="Windows">
   <img src="https://img.shields.io/badge/pricing-free-2EA043?style=flat-square" alt="Pricing">
 </p>
@@ -11,7 +11,7 @@ A fast, lightweight PDF viewer with annotation, form filling and signing. A prac
 <!-- Replace the href "#" with your download URL -->
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20FOXIT%20PDF%20READER-24292F?style=for-the-badge" alt="Download Foxit PDF Reader" height="38">
+    <img src="https://img.shields.io/badge/%E2%AC%87-DOWNLOAD%20FOXIT%20PDF%20READER-353B45?style=for-the-badge&labelColor=1F2328" alt="Download Foxit PDF Reader" height="60">
   </a>
 </p>
 
@@ -100,7 +100,7 @@ Community reference for Foxit PDF Reader. **Foxit** and **Foxit PDF Reader** are
 <!-- Replace the href "#" with your download URL -->
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20FOXIT%20PDF%20READER-24292F?style=for-the-badge" alt="Download Foxit PDF Reader" height="38">
+    <img src="https://img.shields.io/badge/%E2%AC%87-DOWNLOAD%20FOXIT%20PDF%20READER-353B45?style=for-the-badge&labelColor=1F2328" alt="Download Foxit PDF Reader" height="60">
   </a>
 </p>
 
