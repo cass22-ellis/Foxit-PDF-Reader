@@ -1,4 +1,4 @@
-# Foxit PDF Reader for Windows 📄
+# Foxit PDF Reader Download for Windows 📄
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-latest-24292F?style=flat-square" alt="Version">
