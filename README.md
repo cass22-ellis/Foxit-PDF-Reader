@@ -8,6 +8,13 @@
 
 A fast, lightweight PDF viewer with annotation, form filling and signing. A practical daily reader for anyone who works with PDFs on Windows.
 
+<!-- Replace the href "#" with your download URL -->
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20FOXIT%20PDF%20READER-24292F?style=for-the-badge" alt="Download Foxit PDF Reader" height="38">
+  </a>
+</p>
+
 <hr>
 
 ## 📖 About
@@ -87,6 +94,15 @@ Community reference for Foxit PDF Reader. **Foxit** and **Foxit PDF Reader** are
 `foxit-pdf-reader` `foxit-reader-2026` `foxit-software` `pdf-reader` `pdf-viewer` `pdf-tools` `pdf-annotations` `pdf-markup` `pdf-forms` `pdf-form-fill` `pdf-signing` `digital-signature` `ocr` `scanned-pdf-ocr` `document-viewer` `windows-10` `windows-11` `productivity`
 
 <sub>Related: foxit pdf reader, foxit reader 2026, pdf reader for windows, pdf viewer windows, annotate pdf, fill pdf forms, sign pdf, scanned pdf ocr, foxit download, free pdf reader.</sub>
+
+<hr>
+
+<!-- Replace the href "#" with your download URL -->
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20FOXIT%20PDF%20READER-24292F?style=for-the-badge" alt="Download Foxit PDF Reader" height="38">
+  </a>
+</p>
 
 <p align="center">
   <sub>⭐ Found this useful? Leave a star.</sub>
